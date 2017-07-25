@@ -115,6 +115,6 @@ found in the LICENSE.txt file.
 [sentinel]: http://redis.io/topics/sentinel
 [cluster]: http://redis.io/topics/cluster-spec
 
-#QQ Group: 549675095 [游戏服务器]
+## QQ Group: 549675095 [游戏服务器]
 
 ![qq group](./res/qq_group.jpg)
