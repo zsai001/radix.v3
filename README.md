@@ -117,4 +117,4 @@ found in the LICENSE.txt file.
 
 #QQ Group: 549675095 [游戏服务器]
 
-![qq group](../res/qq_group.jpg)
+![qq group](./res/qq_group.jpg)
